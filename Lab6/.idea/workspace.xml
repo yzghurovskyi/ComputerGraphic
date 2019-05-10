@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c537cef9-eedf-4908-a814-1cc89508049d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Lab5/src/example/AnimationPlane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab5/src/example/FirstMainClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,7 +20,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/lab6/LadyBug.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-476">
+            <state relative-caret-position="-272">
               <caret line="74" selection-start-line="74" selection-end-line="74" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -98,6 +97,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/krysiuk" />
@@ -223,16 +223,15 @@
       <updated>1557224777282</updated>
       <workItem from="1557224786304" duration="3609000" />
       <workItem from="1557412883374" duration="14186000" />
-      <workItem from="1557506355686" duration="1009000" />
+      <workItem from="1557506355686" duration="1574000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18804000" />
+    <option name="totallyTimeSpent" value="19369000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18152525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -344,7 +343,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lab6/LadyBug.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-476">
+        <state relative-caret-position="-272">
           <caret line="74" selection-start-line="74" selection-end-line="74" />
           <folding>
             <element signature="imports" expanded="true" />
